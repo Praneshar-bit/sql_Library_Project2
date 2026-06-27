@@ -9,6 +9,8 @@
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
 
+!image[alt](https://github.com/Praneshar-bit/sql_Library_Project2/blob/942504c2707db8cb05639608cbbac90607a91291/Library.jpg)
+
 ## Objectives
 
 1. **Set up a retail sales database**: Create and populate the database with tables for branches, employees, members, books, issued status, and return status.
@@ -21,6 +23,8 @@ This project demonstrates the implementation of a Library Management System usin
 ### 1. Database Setup
 - **Database Creation**: Created a database named `sql_Library_Project2`.
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
+
+!image[alt]([https://github.com/Praneshar-bit/sql_Library_Project2/blob/942504c2707db8cb05639608cbbac90607a91291/Library.jpg](https://github.com/Praneshar-bit/sql_Library_Project2/blob/942504c2707db8cb05639608cbbac90607a91291/connections.png))
 
 ```sql
 CREATE TABLE books(
