@@ -1,5 +1,4 @@
 # sql_Library_Project2
-# Retail Sales Analysis SQL Project
 
 ## Project Overview
 
